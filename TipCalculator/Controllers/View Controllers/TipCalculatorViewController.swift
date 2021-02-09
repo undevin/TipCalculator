@@ -17,9 +17,6 @@ class TipCalculatorViewController: UIViewController {
     @IBOutlet weak var twentyPercentButton: CalculatorButton!
     @IBOutlet weak var twentyFivePercentButton: CalculatorButton!
     
-    
-    
-    
     // MARK: - Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
